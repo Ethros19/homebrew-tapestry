@@ -1,6 +1,6 @@
 cask "tapestry" do
-  version "1.2.1"
-  sha256 "dc8389a6b4822e2d4d97a8006b34a3a75acf544a0ec972659afeb752b2def8cb"
+  version "1.2.2"
+  sha256 "d922cabd8abdca49f31f796db867dd7421ada31b6e0b22334694a58d9748aa04"
 
   url "https://github.com/Ethros19/tapestry/releases/download/v#{version}/Tapestry.dmg"
   name "Tapestry"
